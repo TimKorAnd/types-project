@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "ts-pattern": "^3.3.3"
   }
 }

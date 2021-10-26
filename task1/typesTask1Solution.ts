@@ -70,3 +70,10 @@ const bazz5: Bazzzz = {
   baz: 5,
 };
 */
+
+function merge<U, V>(obj1: U, obj2: V) {
+  return {
+    ...obj1,
+    ...obj2,
+  };
+}

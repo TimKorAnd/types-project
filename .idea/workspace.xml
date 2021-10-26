@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5e9be5-f151-48c6-9f7c-0865cac316a2" name="Changes" comment="">
+    <list default="true" id="4a5e9be5-f151-48c6-9f7c-0865cac316a2" name="Changes" comment="solved by author">
+      <change afterPath="$PROJECT_DIR$/classes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enum/enums.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patternMatcher.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeChallenges.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1/typesTask1Solution.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task1/typesTask1Solution.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task5/typesTask5ProdDomain.ts" beforeDir="false" afterPath="$PROJECT_DIR$/task5/typesTask5ProdDomain.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1634901740885</updated>
       <workItem from="1634901742148" duration="9760000" />
-      <workItem from="1634973827737" duration="28026000" />
+      <workItem from="1634973827737" duration="28157000" />
+      <workItem from="1635142280898" duration="1377000" />
+      <workItem from="1635145339079" duration="16257000" />
+      <workItem from="1635230821070" duration="20386000" />
     </task>
+    <task id="LOCAL-00001" summary="solved by author">
+      <created>1635007733764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635007733764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +89,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solved by author" />
+    <option name="LAST_COMMIT_MESSAGE" value="solved by author" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
